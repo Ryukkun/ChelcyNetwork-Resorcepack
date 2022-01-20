@@ -5,7 +5,7 @@
 ## ◈ 注意
 ・必ずoptifineを導入し、品質設定のカスタムアイテムをオンにしてください。
 
-## <details><summary>
+## さ<details><summary>
  ◈ スクリーンショット</summary>
 <p>
 ![SS](https://github.com/Ryukkun/ChelcyNetwork-Resorcepack/blob/main/SS.png)
