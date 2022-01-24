@@ -1,6 +1,6 @@
 # &nbsp;　ChelcyNetwork-Resorcepack
-アスレ選択画面で、どにどのアスレがあるか わかりやすくなる<br>
-アスレチックサーバー「[ChelcyNetwork](https://www.mchel.net/)」でのみ使えるリソースパックです。
+アスレチックサーバー「[ChelcyNetwork](https://www.mchel.net/)」でのみ使えるリソースパックです。  
+アスレ選択画面で、どにどのアスレがあるかが わかりやすくなります。<br>
 
 ## ◈ 注意
 ・必ずoptifineを導入し、品質設定のカスタムアイテムをオンにしてください。
